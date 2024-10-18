@@ -12,8 +12,9 @@
    - Handled the version control system and project requirements.
 
 2. **Mahdi**: 
-   - Focuses on implemting re-throwing, and managment resources and chaining.
-   - Responsible for error handling and writing project documentation, including test cases and setup instructions.
+   - Focuses on implemting re-throwing, and resources management and chaining.
+   - Responsible for error handling and writing project documentation.
+   - Writing test cases.
 
 ---
 
@@ -44,7 +45,4 @@ d.ChainingExceptions
 - **java.util.regex** for regular expressions.
 - JUnit 5
 
-## Setup Instructions
 
-1. Clone the repository:
-   ```bash
